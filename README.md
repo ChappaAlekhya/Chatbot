@@ -1,5 +1,5 @@
 # Chatbot
- Chatbot
+This is RCC Chatbot which can answer queries based on IS 456:2000, the code book on the practices of Reinforced Cement Concrete Structures.
 
 
 # How to run?
