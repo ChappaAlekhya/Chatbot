@@ -18,7 +18,6 @@ conda create -n rcc python=3.10 -y
 ```
 
 
-
 ```bash
 conda activate rcc
 ```
